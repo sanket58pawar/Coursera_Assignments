@@ -1,0 +1,4 @@
+Array size: 4
+Array elements: 9 11 12 15 
+Average: 11.75
+Max: 15
